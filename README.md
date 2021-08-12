@@ -1,5 +1,7 @@
 # ONLINE-TIFFIN-SERVICE-SYSTEM
 
+## DESCRIPTION
+
 Online Tiffin Service System is a web based application which allows the administrator to handle
 all the activities online quickly and safely. Using Interactive GUI anyone can quickly learn to use
 the complete system. This system will give power and flexibility to administrator to manage the
@@ -19,24 +21,24 @@ us to access earlier phases.
 
 
 
+ ## Hardware Requirements
+* Windows or any OS
 
-Network Protocols/ Hardware Requirements
-
-  •Windows or any OS
-
-  •A browser which supports CSS, HTML & PHP
-
-External Interface Requirements
-
-•HTML and CSS
-
-•Database – MySql to save customer data and manage the orders
-
-•PHP
+* A browser which supports CSS, HTML & PHP
 
 
 
+## External Interface Requirements
 
+* HTML and CSS
+
+* Database – MySql to save customer data and manage the orders
+  
+* PHP
+
+
+
+## CONCLUSION
 This Application provides a computerized and automated version of Online Tiffin Service
 System which will benefit the users who search Tiffin service online. It makes entire process
 online and can generate reports. It has a facility of user’s login where users can book tiffin service
@@ -58,4 +60,5 @@ the existing system.
 • System security, data security and reliability are the striking features.
 
 • The System has adequate scope for modification in future if it is necessary.
+
 
