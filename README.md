@@ -38,7 +38,21 @@ us to access earlier phases.
 
 ## PROGRAM SCREENSHOTS
 
-* HOME PAGE
+> HOME PAGE
+
+![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/home.jpg)
+
+> ORDER PAGE
+
+![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/order.jpg)
+
+> ADMIN PAGE
+
+![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/admin_page.jpg)
+
+> ADMIN DASHBOARD PAGE
+
+![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/dashboard.jpg)
 
 
 ## CONCLUSION
