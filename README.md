@@ -22,7 +22,7 @@ us to access earlier phases.
 
 
  ## Hardware Requirements
-* Windows or any OS
+* Windows or Any OS
 
 * A browser which supports CSS, HTML & PHP
 
