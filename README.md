@@ -40,19 +40,19 @@ us to access earlier phases.
 
 > HOME PAGE
 
-![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/home.jpg)
+<img src="https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/home.jpg" width="700px" height="450px">
 
 > ORDER PAGE
 
-![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/order.jpg)
+<img src="https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/order.jpg" width="700px" height="450px">
 
 > ADMIN PAGE
 
-![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/admin_page.jpg)
+<img src="https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/admin_page.jpg" width="700px" height="450px">
 
 > ADMIN DASHBOARD PAGE
 
-![](https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/dashboard.jpg)
+<img src="https://github.com/harshvs4/ONLINE-TIFFIN-SERVICE-SYSTEM/blob/main/images/dashboard.jpg" width="700px" height="450px">
 
 
 ## CONCLUSION
